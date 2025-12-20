@@ -51,22 +51,18 @@
 ---
 
 ## 🔗 Connect With Me
-<p>
-  <a href="https://github.com/tanmay711" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+
+<p align="center">
+  <a href="https://github.com/tanmay711">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tanmay-patil-502aa9328/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
+  <a href="https://www.linkedin.com/in/tanmay-patil-502aa9328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://tanmaygamedev.itch.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/itchdotio.svg" height="30" style="filter: invert(1);" />
+  <a href="https://tanmaygamedev.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/hJnuXtU3DC/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" />
-  </a>
+
 </p>
 
 ---
