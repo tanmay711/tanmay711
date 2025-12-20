@@ -6,7 +6,7 @@
 
 <p align="center">
   Software Engineering student with a strong academic foundation and a focused interest in
-  problem-solving, core computer science subjects, and software development.
+  core computer science subjects, problem-solving, and software development.
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ---
 
 ## 💻 Technical Interests
-- 🎮 Game Development (logic, systems, and mechanics)
+- 🎮 Game Development (logic, systems, mechanics)
 - 🧩 Problem Solving & DSA
 - 🗃️ Database Design & SQL
 - 🖥️ Core Software Engineering Concepts
@@ -28,7 +28,7 @@
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages:** C / C++ / C#
+- **Programming Languages:** C / C++ / Java
 - **Core Subjects:** DSA, DBMS, OOP
 - **Tools:** Git, GitHub, VS Code
 - **Databases:** MySQL / SQL
@@ -44,18 +44,33 @@
 ---
 
 ## 🎯 Hobbies & Interests
-- 🏸 Badminton
+- 🏸 Playing Badminton
 - 📺 Watching TV Shows
 - 🎮 Exploring Game Design Concepts
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/tanmay711
-- LinkedIn: https://www.linkedin.com/in/tanmay-patil-502aa9328/
+## 🔗 Connect With Me
+<p>
+  <a href="https://github.com/tanmay711" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tanmay-patil-502aa9328/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tanmaygamedev.itch.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/itchdotio.svg" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/hJnuXtU3DC/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="28" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Focused on consistency, learning, and academic growth.</i>
+  <i>Focused on consistency, learning, and academic excellence.</i>
 </p>
