@@ -53,19 +53,19 @@
 ## 🔗 Connect With Me
 <p>
   <a href="https://github.com/tanmay711" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="28" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tanmay-patil-502aa9328/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://tanmaygamedev.itch.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/itchdotio.svg" height="28" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/itchdotio.svg" height="30" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/hJnuXtU3DC/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="28" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" />
   </a>
 </p>
 
