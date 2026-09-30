@@ -90,14 +90,12 @@
 
 ## 📊 Languages I've Used
 
-<p align="center">
-  <img src="languages.svg" alt="Languages I've used" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/tanmay711?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/commit-activity/y/tanmay711/tanmay711?style=for-the-badge&logo=git&label=Commits%20(year)" alt="Commit activity" />
-</p>
+| Language | Usage | |
+|:---------|:------|:-|
+| <img src="https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> | `████████░░░░░░░░░░░░` | **40%** |
+| <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> | `██████░░░░░░░░░░░░░░` | **30%** |
+| <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=black" alt="C" /> | `████░░░░░░░░░░░░░░░░` | **20%** |
+| <img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> | `██░░░░░░░░░░░░░░░░░░` | **10%** |
 
 ---
 
