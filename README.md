@@ -28,20 +28,52 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Skills
 
-**Languages**
-
+### 💬 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql" alt="Languages" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-| Category | Technologies |
-|----------|--------------|
-| 💬 **Languages** | C, C++, Java, SQL |
-| 🗄️ **Databases** | MySQL |
-| 🧰 **Tools** | Git, GitHub, VS Code |
-| 📚 **Core Subjects** | Data Structures & Algorithms, DBMS, OOP |
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+### 📚 Core CS Concepts
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-2ea44f?style=for-the-badge" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-2ea44f?style=for-the-badge" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-8957e5?style=for-the-badge" alt="OOP" />
+  <img src="https://img.shields.io/badge/DBMS-d29922?style=for-the-badge" alt="DBMS" />
+</p>
+
+### 🎯 What I Use Them For
+
+| Skill | What I do with it | Focus |
+|:------|:------------------|:------|
+| **C / C++** | Problem solving, DSA, understanding memory & performance | 🔥 Practicing daily |
+| **Java** | Object-oriented design, building structured programs | 💪 Comfortable |
+| **SQL / MySQL** | Schema design, joins, queries, normalization | 📈 Growing |
+| **Git & GitHub** | Version control, tracking my projects | ✅ Everyday tool |
+| **Game Logic** | Mechanics, systems, and small game prototypes | 🎮 Exploring |
+
+### 🌱 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Advanced_DSA-in_progress-blue?style=flat-square" alt="Advanced DSA" />
+  <img src="https://img.shields.io/badge/Game_Development-in_progress-blueviolet?style=flat-square" alt="Game Dev" />
+  <img src="https://img.shields.io/badge/Database_Design-in_progress-orange?style=flat-square" alt="DB Design" />
+</p>
 
 ---
 
@@ -49,14 +81,6 @@
 - 📘 **Data Structures & Algorithms** – arrays, linked lists, trees, graphs, sorting & searching
 - 🗄️ **Database Management Systems** – relational design, normalization, SQL queries
 - 🧠 **Object-Oriented Programming** – classes, inheritance, polymorphism, encapsulation
-
----
-
-## 🚀 Interests
-- 🎮 **Game Development** – game logic, systems, and mechanics
-- 🧩 **Problem Solving** – DSA practice and algorithmic thinking
-- 🗃️ **Database Design** – schema design and SQL
-- 🖥️ **Software Engineering** – clean code and core engineering concepts
 
 ---
 
@@ -69,11 +93,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanmay711&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay711&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/stars/tanmay711?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/tanmay711?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/commit-activity/y/tanmay711/tanmay711?style=for-the-badge&logo=git&label=Commits%20(year)" alt="Commit activity" />
 </p>
 
 ---
