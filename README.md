@@ -13,11 +13,6 @@
   a love for problem-solving, and a growing interest in game development.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanmay711&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tanmay711?style=flat&logo=github&label=Followers" alt="Followers" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -85,7 +80,7 @@
 ---
 
 ## 🎯 Goals
-- [x] Build a strong foundation in C, C++, and Java
+- [ ] Build a strong foundation in C, C++, and Java
 - [ ] Sharpen problem-solving skills through consistent DSA practice
 - [ ] Build and publish more game projects
 - [ ] Apply theory to practical, portfolio-ready projects
@@ -93,10 +88,13 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Languages I've Used
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/tanmay711?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="languages.svg" alt="Languages I've used" width="600" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/tanmay711?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/commit-activity/y/tanmay711/tanmay711?style=for-the-badge&logo=git&label=Commits%20(year)" alt="Commit activity" />
 </p>
